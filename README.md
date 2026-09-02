@@ -10,6 +10,7 @@ Solved problems of Leetcode and HackerRank
 | [0704-binary-search](https://github.com/Bhavana23-05-08/Coding---Practice/tree/main/0704-binary-search/) | Easy |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Bhavana23-05-08/Coding---Practice/tree/main/2176-count-equal-and-divisible-pairs-in-an-array/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Bhavana23-05-08/Coding---Practice/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/Bhavana23-05-08/Coding---Practice/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/Bhavana23-05-08/Coding---Practice/tree/main/3880-minimum-absolute-difference-between-two-values/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -31,4 +32,8 @@ Solved problems of Leetcode and HackerRank
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/Bhavana23-05-08/Coding---Practice/tree/main/3880-minimum-absolute-difference-between-two-values/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3875-construct-uniform-parity-array-i](https://github.com/Bhavana23-05-08/Coding---Practice/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 <!---LeetCode Topics End-->
