@@ -6,6 +6,7 @@ Solved problems of Leetcode and HackerRank
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Bhavana23-05-08/Coding---Practice/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0260-single-number-iii](https://github.com/Bhavana23-05-08/Coding---Practice/tree/main/0260-single-number-iii/) | Medium |
 | [0704-binary-search](https://github.com/Bhavana23-05-08/Coding---Practice/tree/main/0704-binary-search/) | Easy |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Bhavana23-05-08/Coding---Practice/tree/main/2176-count-equal-and-divisible-pairs-in-an-array/) | Easy |
@@ -27,6 +28,7 @@ Solved problems of Leetcode and HackerRank
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Bhavana23-05-08/Coding---Practice/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0704-binary-search](https://github.com/Bhavana23-05-08/Coding---Practice/tree/main/0704-binary-search/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -36,4 +38,8 @@ Solved problems of Leetcode and HackerRank
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3875-construct-uniform-parity-array-i](https://github.com/Bhavana23-05-08/Coding---Practice/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Bhavana23-05-08/Coding---Practice/tree/main/0074-search-a-2d-matrix/) | Medium |
 <!---LeetCode Topics End-->
