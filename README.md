@@ -7,6 +7,7 @@ Solved problems of Leetcode and HackerRank
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Bhavana23-05-08/Coding---Practice/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/Bhavana23-05-08/Coding---Practice/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0260-single-number-iii](https://github.com/Bhavana23-05-08/Coding---Practice/tree/main/0260-single-number-iii/) | Medium |
 | [0704-binary-search](https://github.com/Bhavana23-05-08/Coding---Practice/tree/main/0704-binary-search/) | Easy |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Bhavana23-05-08/Coding---Practice/tree/main/2176-count-equal-and-divisible-pairs-in-an-array/) | Easy |
@@ -29,6 +30,7 @@ Solved problems of Leetcode and HackerRank
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Bhavana23-05-08/Coding---Practice/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/Bhavana23-05-08/Coding---Practice/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0704-binary-search](https://github.com/Bhavana23-05-08/Coding---Practice/tree/main/0704-binary-search/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -42,4 +44,9 @@ Solved problems of Leetcode and HackerRank
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Bhavana23-05-08/Coding---Practice/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/Bhavana23-05-08/Coding---Practice/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/Bhavana23-05-08/Coding---Practice/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 <!---LeetCode Topics End-->
