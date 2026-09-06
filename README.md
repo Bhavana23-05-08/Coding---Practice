@@ -29,6 +29,7 @@ Solved problems of Leetcode and HackerRank
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0069-sqrtx](https://github.com/Bhavana23-05-08/Coding---Practice/tree/main/0069-sqrtx/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/Bhavana23-05-08/Coding---Practice/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Bhavana23-05-08/Coding---Practice/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0704-binary-search](https://github.com/Bhavana23-05-08/Coding---Practice/tree/main/0704-binary-search/) | Easy |
@@ -39,6 +40,7 @@ Solved problems of Leetcode and HackerRank
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0069-sqrtx](https://github.com/Bhavana23-05-08/Coding---Practice/tree/main/0069-sqrtx/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Bhavana23-05-08/Coding---Practice/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -49,4 +51,8 @@ Solved problems of Leetcode and HackerRank
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Bhavana23-05-08/Coding---Practice/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/Bhavana23-05-08/Coding---Practice/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
