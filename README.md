@@ -6,6 +6,7 @@ Solved problems of Leetcode and HackerRank
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Bhavana23-05-08/Coding---Practice/tree/main/0001-two-sum/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/Bhavana23-05-08/Coding---Practice/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Bhavana23-05-08/Coding---Practice/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0260-single-number-iii](https://github.com/Bhavana23-05-08/Coding---Practice/tree/main/0260-single-number-iii/) | Medium |
@@ -55,4 +56,8 @@ Solved problems of Leetcode and HackerRank
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/Bhavana23-05-08/Coding---Practice/tree/main/0069-sqrtx/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/Bhavana23-05-08/Coding---Practice/tree/main/0001-two-sum/) | Easy |
 <!---LeetCode Topics End-->
