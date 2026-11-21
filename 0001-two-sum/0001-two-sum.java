@@ -4,7 +4,7 @@ class Solution {
         int flag = 0;
         for(int i=0;i<nums.length-1;i++){
             int sum = 0;
-            for(int j=1;j<nums.length;j++){
+            for(int j=i+1;j<nums.length;j++){
                 if(i!=j&&nums[i]+nums[j]==target){
                     idx1 = i;
                     idx2 = j;
