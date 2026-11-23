@@ -60,4 +60,8 @@ Solved problems of Leetcode and HackerRank
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Bhavana23-05-08/Coding---Practice/tree/main/0001-two-sum/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0709-to-lower-case](https://github.com/Bhavana23-05-08/Coding---Practice/tree/main/0709-to-lower-case/) | Easy |
 <!---LeetCode Topics End-->
