@@ -10,6 +10,7 @@ Solved problems of Leetcode and HackerRank
 | [0074-search-a-2d-matrix](https://github.com/Bhavana23-05-08/Coding---Practice/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Bhavana23-05-08/Coding---Practice/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0260-single-number-iii](https://github.com/Bhavana23-05-08/Coding---Practice/tree/main/0260-single-number-iii/) | Medium |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/Bhavana23-05-08/Coding---Practice/tree/main/0674-longest-continuous-increasing-subsequence/) | Easy |
 | [0704-binary-search](https://github.com/Bhavana23-05-08/Coding---Practice/tree/main/0704-binary-search/) | Easy |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Bhavana23-05-08/Coding---Practice/tree/main/2176-count-equal-and-divisible-pairs-in-an-array/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Bhavana23-05-08/Coding---Practice/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
