@@ -34,6 +34,7 @@ Solved problems of Leetcode and HackerRank
 | [0069-sqrtx](https://github.com/Bhavana23-05-08/Coding---Practice/tree/main/0069-sqrtx/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/Bhavana23-05-08/Coding---Practice/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Bhavana23-05-08/Coding---Practice/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0278-first-bad-version](https://github.com/Bhavana23-05-08/Coding---Practice/tree/main/0278-first-bad-version/) | Easy |
 | [0704-binary-search](https://github.com/Bhavana23-05-08/Coding---Practice/tree/main/0704-binary-search/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -65,4 +66,8 @@ Solved problems of Leetcode and HackerRank
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0709-to-lower-case](https://github.com/Bhavana23-05-08/Coding---Practice/tree/main/0709-to-lower-case/) | Easy |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0278-first-bad-version](https://github.com/Bhavana23-05-08/Coding---Practice/tree/main/0278-first-bad-version/) | Easy |
 <!---LeetCode Topics End-->
