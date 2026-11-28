@@ -43,6 +43,7 @@ Solved problems of Leetcode and HackerRank
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/Bhavana23-05-08/Coding---Practice/tree/main/0009-palindrome-number/) | Easy |
 | [0069-sqrtx](https://github.com/Bhavana23-05-08/Coding---Practice/tree/main/0069-sqrtx/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Bhavana23-05-08/Coding---Practice/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Matrix
